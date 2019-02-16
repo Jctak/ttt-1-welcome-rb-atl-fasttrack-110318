@@ -1,1 +1,1 @@
-puts "Hello".upcase
+puts "Hello"
